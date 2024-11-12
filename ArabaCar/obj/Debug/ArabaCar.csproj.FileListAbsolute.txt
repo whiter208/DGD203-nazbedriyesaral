@@ -1,0 +1,7 @@
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\bin\Debug\ArabaCar.exe.config
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\bin\Debug\ArabaCar.exe
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\bin\Debug\ArabaCar.pdb
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\obj\Debug\ArabaCar.csproj.AssemblyReference.cache
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\obj\Debug\ArabaCar.csproj.CoreCompileInputs.cache
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\obj\Debug\ArabaCar.exe
+C:\Users\enesk\source\repos\ArabaCar\ArabaCar\obj\Debug\ArabaCar.pdb
